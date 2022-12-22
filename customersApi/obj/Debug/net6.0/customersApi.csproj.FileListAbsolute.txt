@@ -1,0 +1,7 @@
+C:\Users\Geral\source\repos\customersApi\customersApi\obj\Debug\net6.0\customersApi.csproj.AssemblyReference.cache
+C:\Users\Geral\source\repos\customersApi\customersApi\obj\Debug\net6.0\customersApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geral\source\repos\customersApi\customersApi\obj\Debug\net6.0\customersApi.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\customersApi\customersApi\obj\Debug\net6.0\customersApi.AssemblyInfo.cs
+C:\Users\Geral\source\repos\customersApi\customersApi\obj\Debug\net6.0\customersApi.csproj.CoreCompileInputs.cache
+C:\Users\Geral\source\repos\customersApi\customersApi\obj\Debug\net6.0\customersApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Geral\source\repos\customersApi\customersApi\obj\Debug\net6.0\customersApi.MvcApplicationPartsAssemblyInfo.cache
